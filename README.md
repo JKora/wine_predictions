@@ -30,4 +30,15 @@ Project Organization
     │                         generated with `pip freeze > requirements.txt`
     │
 
---------
+Project Contributors
+------------
+The Wine Team's Fantastic Five
+
+    ├── Janaki Kora
+    ├── Jessica Phillips
+    ├── Lena Tran
+    ├── Nazanin Sinaei
+    ├── Sema Uyar
+    
+------------ 
+    
